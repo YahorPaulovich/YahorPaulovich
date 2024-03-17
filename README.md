@@ -7,7 +7,7 @@ I specialize in writing clean code architecture using DI, applying design patter
  
 I love to solve complicated problems in a simple and beautiful way and by giving a problem to me you can be sure I found a creative solution for it!
 
-- 🎨 [Portfolio](https://yahorpaulovich.github.io/Portfolio.github.io/)
+- 🎨 [Portfolio](https://yahorpaulovich.github.io/Portfolio/)
 
 ## Where can I follow you?
 
