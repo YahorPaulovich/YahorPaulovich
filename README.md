@@ -1,13 +1,15 @@
 **Welcome** to my **profile**!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YahorPaulovich&label=Profile%20views&color=0e75b6&style=flat" alt="YahorPaulovich" /> </p>
+
 ## Summary
-I am focused on creating maintainable and scalable solutions that meet the needs of OOP and SOLID principles & business goals. 
-
-I specialize in writing clean code architecture using DI, applying design patterns, and implementing various gameplay mechanics.
+I'm a Unity C# Developer and I am focused on creating maintainable and scalable solutions that meet the needs of OOP and SOLID principles & business goals. I specialize in writing clean code architecture using DI, applying design patterns, and implementing various gameplay mechanics.
  
-I love to solve complicated problems in a simple and beautiful way and by giving a problem to me you can be sure I found a creative solution for it!
+I love to solve complicated problems in a simple and beautiful way and by giving a problem to me you can be sure I found a creative solution for it.
 
-- 🎨 [Portfolio](https://yahorpaulovich.github.io/Portfolio/)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahorPaulovich&show_icons=true)
+
+- 👨‍💻 [Portfolio](https://yahorpaulovich.github.io/Portfolio/)
 
 ## Where can I follow you?
 
