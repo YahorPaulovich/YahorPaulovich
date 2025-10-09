@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YahorPaulovich&label=Profile%20views&color=0e75b6&style=flat" alt="YahorPaulovich" /> </p>
 
 ## Summary
-I'm a Unity C# Developer and I am focused on creating maintainable and scalable solutions that meet the needs of OOP and SOLID principles & business goals. I specialize in writing clean code architecture using DI, applying design patterns, and implementing various gameplay mechanics.
+I'm a Game Developer and I am focused on creating maintainable and scalable solutions that meet the needs of OOP and SOLID principles & business goals. I specialize in writing clean code architecture using DI, applying design patterns, and implementing various gameplay mechanics.
  
 I love to solve complicated problems in a simple and beautiful way and by giving a problem to me you can be sure I found a creative solution for it.
 
