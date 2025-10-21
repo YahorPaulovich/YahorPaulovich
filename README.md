@@ -9,7 +9,7 @@ I love to solve complicated problems in a simple and beautiful way and by giving
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahorPaulovich&show_icons=true)
 
-⚡ Fun fact: until I was 12 years old, I had the straightest shoulders in the neighborhood (like in the textbook)
+⚡ Fun fact: until I was 12 years old, I had the straightest posture in my entire neighborhood (like in an anatomy textbook)
 
 - 👨‍💻 [Portfolio](https://yahorpaulovich.github.io/Portfolio/)
 
