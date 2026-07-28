@@ -11,7 +11,7 @@ I love to solve complicated problems in a simple and beautiful way and by giving
 
 ⚡ Fun fact: until I was 12 years old, I had the straightest posture in my entire neighborhood (like in an anatomy textbook)
 
-- 👨‍💻 [Portfolio](https://yahorpaulovich.github.io/Portfolio/)
+- 👨‍💻 [Portfolio](https://yahor-paulovich.itch.io/)
 
 ## Where can I follow you?
 
